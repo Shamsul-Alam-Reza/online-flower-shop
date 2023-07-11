@@ -244,4 +244,26 @@ header{
 .input-item  input[type="email"]{
     padding-left: 10px;
 }
+/* Footer part Started */
+    
+.footer-container{
+    margin-top: 100px;
+    background-color: black;
+    color: #F4F4F4;
+}
+.footer-title{
+    text-align: center;
+    padding-top: 60px;
+}
+.footer-para{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.finish{
+    text-align: center;
+    color: dimgrey;
+    padding-bottom: 60px;
+}
+
 
